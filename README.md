@@ -2,7 +2,7 @@
 - 👀 I’m interested in android development
 - 🌱 I’m currently learning kotlin
 - 💞️ I’m looking to collaborate on android and ML projects
-- 📫 email me sarfaraz.light.13@gmail.com
+- 📫 email me sarfarazshaikh9518@gmail.com
 - 😄 Pronouns: He
 - ⚡ Fun fact: i started liking her again
 
